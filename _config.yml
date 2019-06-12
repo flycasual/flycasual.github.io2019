@@ -110,16 +110,16 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 navigation_header:
 - title: Home
   url: /
-- title: Elements
+- title: Meet the band
   url: /elements/
-- title: Blog
+- title: Gigs
   url: /blog/
-- title: Categories
+- title: Photos
   url: /categories/
-- title: Search
+- title: Book us
   url: /search/
-- title: Fork Alembic
-  url: https://github.com/daviddarnes/alembic
+- title: Facebook
+  url: https://www.facebook.com/FlyCasualLaCrosse/
 
 navigation_footer:
 - title: Created by David Darnes

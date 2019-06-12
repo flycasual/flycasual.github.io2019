@@ -111,13 +111,15 @@ navigation_header:
 - title: Home
   url: /
 - title: Meet the band
-  url: /elements/
+  url: /meet/
 - title: Gigs
-  url: /blog/
+  url: /gigs/
+- title: Songs
+  url: /songs/
 - title: Photos
-  url: /categories/
+  url: /photos/
 - title: Book us
-  url: /search/
+  url: /book/
 - title: Facebook
   url: https://www.facebook.com/FlyCasualLaCrosse/
 

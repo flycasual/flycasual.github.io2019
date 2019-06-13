@@ -82,7 +82,7 @@ encoding: utf-8 # Make sure the encoding is right
 lang: en-US # Set the site language
 title: "Fly Casual" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
-description: "We are an 80’s & 90’s & 2000’s band that loves to rock out to some tunes we love around La Crosse. We book for events such as weddings, social events, and more." # Site description and default description, also used in jekyll-seo-tag
+description: "80’s & 90’s & 2000’s cover band from La Crosse, WI" # Site description and default description, also used in jekyll-seo-tag
 url: "https://flycasual.github.io/" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/daviddarnes/alembic"

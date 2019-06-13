@@ -2,7 +2,7 @@
 title: Gigs
 feature_text: |
   
-feature_image: "images/leon2560x600.jpg"
+feature_image: "/images/leon2560x600.jpg"
 excerpt: ""
 aside: true
 ---

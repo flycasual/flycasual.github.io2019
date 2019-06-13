@@ -116,8 +116,8 @@ navigation_header:
   url: /gigs/
 - title: Songs
   url: /songs/
-- title: Photos
-  url: /photos/
+- title: Media
+  url: /media/
 - title: Book us
   url: /book/
 - title: Facebook

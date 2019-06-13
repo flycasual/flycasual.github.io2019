@@ -7,22 +7,22 @@ excerpt: "Sarah, Colin, Jason, Eddie, Joe"
 aside: true
 ---
 
-# Sarah
+## Sarah
 
 Sarah (vocals) is ...
 
-# Colin
+## Colin
 
 Colin (vocals, guitar) is ...
 
-# Jason
+## Jason
 
 Jason (vocals, bass) is ...
 
-# Eddie
+## Eddie
 
 Eddie (keys) is ...
 
-# Joe
+## Joe
 
 Joe (drums) is ...

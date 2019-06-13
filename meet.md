@@ -9,6 +9,7 @@ aside: true
 
 ## Sarah
 
+<img src="/images/sarah.jpg" align="left">
 Sarah (vocals) is ...
 
 ## Colin

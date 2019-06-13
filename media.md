@@ -13,6 +13,10 @@ aside: true
 {% include video.html id="W8Mi8onWDAA" title="Timelapse at Oktoberfest Parade 2018" %}
 {% include video.html id="lEXAdYwZrDY" title="The Adventure at the Block Party" %}
 
+{% include figure.html image="/images/jump.jpg" caption="Check out Jason's hangtime!" alt="Band members timing a jump" %}
+
+{% include figure.html image="/images/starceiling.jpg" caption="Artsy photo shoot" alt="Photo from below showing starry ceiling" %}
+
 <!--
 
 {% include figure.html image="https://picsum.photos/600/800?image=894" caption="Image with caption" width="300" height="800" %}

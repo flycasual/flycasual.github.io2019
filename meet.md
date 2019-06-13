@@ -10,20 +10,24 @@ aside: true
 ## Sarah
 
 <img src="/images/sarah.jpg" align="left">
-Sarah (vocals) is ...
+Sarah (vocals) is ... insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text 
 
 ## Colin
 
-Colin (vocals, guitar) is ...
+<img src="/images/colin.jpg" align="left">
+Colin (vocals, guitar) is ... insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text 
 
 ## Jason
 
-Jason (vocals, bass) is ...
+<img src="/images/jason.jpg" align="left">
+Jason (vocals, bass) is ... insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text 
 
 ## Eddie
 
-Eddie (keys) is ...
+<img src="/images/eddie.jpg" align="left">
+Eddie (keys) is ... insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text 
 
 ## Joe
 
-Joe (drums) is ...
+<img src="/images/joe.jpg" align="left">
+Joe (drums) is ... insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text 

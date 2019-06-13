@@ -2,7 +2,7 @@
 title: Book us
 feature_text: |
   
-feature_image: "https://picsum.photos/2560/600?image=873"
+feature_image: "/images/camp-gradient2560x600.jpg"
 excerpt: ""
 aside: true
 ---

@@ -48,7 +48,6 @@ Pride: In the Name of Love	<br>
 Rehab	<br>
 Rockin in the free world	<br>
 Santeria	<br>
-Shook Me	<br>
 Sk8ter Boi	<br>
 Slide	<br>
 Story of a Girl	<br>
@@ -60,4 +59,5 @@ Time After Time	<br>
 Tom Sawyer	<br>
 Wannabe	<br>
 Wild Night	<br>
+You Shook Me All Night Long	<br>
 Your Love 	<br>

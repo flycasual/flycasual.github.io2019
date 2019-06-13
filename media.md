@@ -1,7 +1,7 @@
 ---
 title: Media
 feature_text: |
-feature_image: "/images/bluffpanoramic2560x600.jpg"
+feature_image: "/images/granddad2560x600.jpg"
 excerpt: ""
 aside: true
 ---

@@ -1,12 +1,11 @@
 ---
 title: Fly Casual
 feature_text: |
-  ## Fly Casual
-  We are an 80's & 90's & 2000's band that loves to rock out to some tunes we love around La Crosse. We book for events such as weddings, social events, and more.
-
 feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: ""
 ---
+
+We are an 80's & 90's & 2000's band that loves to rock out to some tunes we love around La Crosse. We book for events such as weddings, social events, and more.
 
 ## Gig Calendar
 

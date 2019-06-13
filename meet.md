@@ -2,7 +2,7 @@
 title: Meet the band
 feature_text: |
   
-feature_image: "https://picsum.photos/2560/600?image=873"
+feature_image: "/images/fireplacepoint2560x600.jpg"
 excerpt: "Sarah, Colin, Jason, Eddie, Joe"
 aside: true
 ---

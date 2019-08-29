@@ -10,7 +10,7 @@ aside: true
 ## Sarah
 
 <img src="/images/sarah.jpg" align="left" width="100">
-Sarah (vocals) is ... insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text insert text 
+Sarah (vocals) is the lead singer of Fly Casual. She loves jammin' out to 80's rock, Disney movies, and jazz tunes (Ella Fitzgerald ❤️). Sarah obtained a vocal performance degree from UW-La Crosse studying opera and jazz in 2014. Sarah recently graduated from Winona State with her Master's in Clinical Mental Health Counseling. She's always concerned with how everyone is feeling. She loves it when people are having a good time, so come on out and dance! 
 
 ## Colin
 

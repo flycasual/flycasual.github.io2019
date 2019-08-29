@@ -38,7 +38,6 @@ Keep Your Hands to Yourself	<br>
 Last Name	<br>
 Living on a Prayer	<br>
 Locked Out of Heaven	<br>
-Locked Outta Heaven	<br>
 Man, I Feel Like a Woman	<br>
 Mr. Brightside	<br>
 My Own Worst Enemy	<br>
